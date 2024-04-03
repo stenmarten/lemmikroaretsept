@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: beige;
+    color: darkslategray;
+    font-family: "Roboto Mono", monospace;
+}
+
+.Kanapasta {
+text-align: center;
+}
+.pealkirjad {
+    text-align: left;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.juhend {
+    text-align: center;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+}
+.vahed {
+    margin-bottom: 1rem;
+}
+
+.pilt {
+    text-align: center;
+}
+
+.allikas {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
